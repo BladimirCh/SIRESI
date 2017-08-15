@@ -54,5 +54,5 @@ public class conexionbasededatosoracle {
             return false;
         }        return true;
     }
-    
+ //Conexión de a base de datos en ORACLE   
 }
